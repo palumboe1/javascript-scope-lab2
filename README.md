@@ -6,6 +6,9 @@ This lab will further help you understand how functions and blocks determine sco
 
 The Flatburger restaurant is beginning to create its menu of food and drinks to sell to its customers. You will need to use your knowledge of scope to access and change some of these variables.
 
+
+Testaoksdbnasdklnaskldnasd
+
 ## Tools and Resources
 
 It is recommended that you use the Visual Studio Code (VSCode) IDE for this lab.
